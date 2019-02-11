@@ -1,0 +1,7 @@
+*.dSYM
+
+# ignore executables
+hello
+hello-again
+stringy
+func-calls
