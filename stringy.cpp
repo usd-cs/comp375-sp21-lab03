@@ -8,7 +8,7 @@
 using std::cout; // allows us to use cout instead of std::cout in our program
 
 int main() {
-	int version = 3;
+	int version = 4;
 
 	std::string my_string = "Hello C++";
 	my_string.append(", take ");
