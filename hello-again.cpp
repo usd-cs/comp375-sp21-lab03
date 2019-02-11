@@ -1,5 +1,7 @@
 /**
  * Hello world, with a little more C++.
+ *
+ * Author: Sat Garcia (sat@sandiego.edu)
  */
 
 #include <iostream> // include C++ io capabilities (e.g. std::cout)
